@@ -20,6 +20,12 @@ Jquery, JS, CSS, and HTML
 
 #Planned Features
 
--I plan on incorporating my addition and Subtracting feature and converting this game to a children's math game. 
+-I plan on incorporating my addition and Subtracting feature and converting this game to a children's math game.
 
-Link to hosted project on GitHub pages or BitBalloon (optional)
+-plan on making the background animated as well.
+
+#Link to hosted project on GitHub pages or BitBalloon (optional)
+
+https://github.com/Ameer-Brown/MathDash.git
+
+http://fastandfurious.bitballoon.com/
