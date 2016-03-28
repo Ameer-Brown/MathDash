@@ -37,19 +37,19 @@
 
 #aM    {
                   color: #77b82f;
-                  background: white;
+                  background: black;
               }
 
 #cS    {
                   color: #b82f3e;
-                  background: white;
+                  background: black;
               }
 
 #Leaderboard  {
                   width: 60%;
                   margin: 10px auto 0;
                   background:;
-                  height: 140px;
+                  height: 100px;
                   border-radius: 10px;
                   color: black
               }
@@ -79,25 +79,29 @@ h1              {
 
 }
 
-.lBd {
-    font-size: 24px;
-    font-weight: bold;
-    color: white;
-    width: 50%;
-    float: left;
-}
 
-.lBd span {
-    display: block;
-    font-weight: normal;
-    font-size: 18px;
-    color: white;
-}
+.lBd           {
+                  font-size: 24px;
+                  font-weight: bold;
+                  color: white;
+                  width: 50%;
+                  float: left;
+               }
 
-#aM {
-    color: #77b82f;
-}
+.lBd span      {
+                  display: block;
+                  font-weight: normal;
+                  font-size: 18px;
+                  color: white;
+                }
 
-#cS {
-    color: #b82f3e;
+#aM             {
+                    color: #77b82f;
+                }
+#cS             {
+                    color: #b82f3e;
+                }
+.banner         {
+                 height: 240px;
+                 width: 1278px;
 }
