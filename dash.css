@@ -48,10 +48,10 @@
 #Leaderboard  {
                   width: 60%;
                   margin: 10px auto 0;
-                  background:;
+                  background: black;
                   height: 100px;
-                  border-radius: 10px;
-                  color: black
+                  border-radius: 28px;
+                  color: white
               }
 
 
