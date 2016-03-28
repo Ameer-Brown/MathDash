@@ -4,6 +4,33 @@
                 border-right: dashed 15px white;
                 box-sizing: border-box;
                 margin: 40px 0;
-              };
+               }
 
-      
+
+.cars          {
+                display: block;
+                position: relative;
+
+               }
+
+#green        {    top: 155px;
+
+              }
+
+#red          {    top: 190px;
+
+              }
+
+              #Leaderboard {
+                  width: 80%;
+                  margin: 40px auto 0;
+                  background: #333;
+                  height: 200px;
+              }
+
+              #Leaderboard h2 {
+                  color: white;
+                  text-transform: uppercase;
+                  border-bottom: solid 3px white;
+                  padding: 0px 0;
+              }
