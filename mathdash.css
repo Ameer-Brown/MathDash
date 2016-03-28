@@ -1,0 +1,9 @@
+#dontRaceHere {
+                background: url('racetrack.png') center left repeat-x;
+                height: 400px;
+                border-right: dashed 15px white;
+                box-sizing: border-box;
+                margin: 40px 0;
+              };
+
+      
